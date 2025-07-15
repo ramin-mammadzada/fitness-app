@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["185.233.183.203"],
+    domains: ["fitnessapp20250501224647.azurewebsites.net"],
   },
 };
 
